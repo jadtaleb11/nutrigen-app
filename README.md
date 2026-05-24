@@ -15,8 +15,22 @@ NutriGen is a premium nutrition management and biometric analytics web applicati
 ## 🛠️ Technical Stack
 * **Frontend UI Library:** ReactJS 
 * **Build Engine:** Vite (Optimized production asset compilation)
-* **Styling Framework:** Specialized Custom CSS (Utilizing glassmorphism and modern dark/yellow theme parameters)
+* **Styling Framework:** Specialized Custom CSS3 (Utilizing glassmorphism and modern dark/yellow theme parameters)
 * **Runtime Language:** JavaScript
+
+---
+
+## 📸 User Interface Screenshots
+Here is a preview of the NutriGen application interface:
+
+### 🖥️ Main Dashboard View
+![NutriGen Dashboard](src/assets/dashboard.png)
+
+### 🏋️ Workouts Tracking View
+![NutriGen Workouts](src/assets/workouts.png)
+
+### 🥦 Nutrition Management View
+![NutriGen Nutrition](src/assets/nutrition.png)
 
 ---
 
