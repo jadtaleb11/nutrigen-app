@@ -30,7 +30,7 @@ Here is a preview of the NutriGen application interface:
 ![NutriGen Workouts](src/assets/workouts.png)
 
 ### 🥦 Nutrition Management View
-![NutriGen Nutrition](src/assets/nutrition.png)
+![NutriGen Nutrition](src/assets/Nutrition.png)
 
 ---
 
